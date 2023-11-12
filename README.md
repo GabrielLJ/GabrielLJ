@@ -1,7 +1,7 @@
 ### "Olá mundo!" Eu sou o Gabriel Luz 👋
 
 
-- 🌱 Estudando Java
+- 🌱 Estudando C#
 - 📫 Contate-me no e-mail: gluzjabar@gmail.com
 
 <div align="center">
