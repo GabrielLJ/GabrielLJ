@@ -1,7 +1,7 @@
 ### "Olá mundo!" Eu sou o Gabriel Luz 👋
 
 
-- 🌱 Estudando C#
+- 🌱 Estudando Java!
 - 📫 Contate-me no e-mail: gluzjabar@gmail.com
 
 <div align="center">
@@ -17,7 +17,6 @@
   <img align="center" alt="R-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="R-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="R-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="R-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="R-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
